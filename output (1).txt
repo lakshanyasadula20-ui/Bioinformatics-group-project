@@ -1,0 +1,23 @@
+FASTA Header: >WP_342998355.1 MULTISPECIES: hypothetical protein [Bacteria]
+Sequence Length: 102
+GC Content: 6.86%
+
+Nucleotide Frequency:
+M : 3
+A : 10
+Y : 2
+K : 17
+E : 12
+L : 11
+Q : 5
+R : 4
+I : 5
+V : 4
+N : 8
+S : 5
+H : 2
+G : 6
+F : 2
+D : 2
+C : 1
+P : 3
